@@ -1,4 +1,4 @@
-Desenvolvido por Mateus Santana C
+Desenvolvido por Mateus Santana 
 
 O **Cyber Sentinel v3.0** é uma ferramenta em Python desenvolvida para automatizar a consulta e análise de vulnerabilidades diretamente da API oficial do governo americano (**NVD - National Vulnerability Database / NIST**). 
 
