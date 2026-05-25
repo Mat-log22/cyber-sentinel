@@ -40,4 +40,5 @@ python cyber_sentinel_v3.py
 
 Estrutura do Repositório
 ├── cyber_sentinel_v3.py   # Script principal da aplicação
+
 └── README.md              # Documentação do projeto
